@@ -37,3 +37,17 @@ Section: Themes
 Author: Nguyễn Hoà <nguyentranquihoa098@gmail.com>
 Description: Dark Liaca Version With Modern, Colourful & Carefully Design.
 Name: Liaca Dark VN
+
+
+Package: com.hoacutevl.hidejbvn
+Version: 2.1
+Section: Tweaks
+Maintainer: Nguyễn Hoà <nguyentranquihoa098@gmail.com>
+Architecture: iphoneos-arm
+Name: HideJB VN
+Author: Nguyễn Hoà <nguyentranquihoa098@gmail.com>
+Description: Bỏ qua phát hiện jailbreak trên các ứng dụng iOS
+Depiction: Nguyễn Hoà <nguyentranquihoa098@gmail.com>
+Filename: ./debs/com.hoacutevl.hidejbvn.deb
+Size: 426188
+MD5sum: 6df3e88a9beb8954191acd06248c72b8
