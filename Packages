@@ -97,17 +97,3 @@ Size: 4408
 Filename: ./debs/com.hoacutevl.hotspotshieldpp.deb
 MD5sum: 474c216b4c22f8f9cd14791a3d783ad6
 
-Package: com.hoacutevl.appstoreplusplus
-Version: 0.9.8-9
-Priority: optional
-Section: Tweaks
-Maintainer: Nguyễn Hoà
-Description: Cho phép bạn hạ cấp/nâng cấp ứng dụng trong AppStore.
-Depends: firmware (>= 11.0), mobilesubstrate
-Conflicts: com.unlimapps.uaupdatetools
-Architecture: iphoneos-arm
-Name: AppStore++
-Author: CokePokes
-Size: 1348145
-Filename: ./1/com.hoacutevl.appstoreplusplus.deb
-MD5sum: 6b38a9713a0027ea5e6ca2b6d2ee71d8
