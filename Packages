@@ -7,7 +7,6 @@ Size: 1047484
 MD5sum: dfc08d8df16593e2acc8a16cb6cab5cf
 SHA1: 9ac634cf26c2668c5963fb380675847540f6135f
 SHA256: a1d7fe8f96dbc9f7b9ad4bb228b87c94034f7d2eb8314425822882766d07d4ae
-Pre-Depends: firmware (>= 4), firmware (<= 14)
 Section: Games
 Description: - No Recoil - No Spread - Xray Slider (Slider that removes environment such as trees and grass)
 Author: Nguyễn Hòa <nguyentranquihoa098@gmail.com>
