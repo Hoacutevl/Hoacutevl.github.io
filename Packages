@@ -80,3 +80,19 @@ Depiction: Nguyễn Hoà <nguyentranquihoa098@gmaul.com>
 Size: 113644
 Filename: ./debs/com.hoacutevl.durecorderhack_0.0.2_iphoneos-arm.deb
 MD5sum: d1dceeefbfca4e6e261e1ab0b148cdb4
+
+
+Package: com.hoacutevl.hotspotshieldpp
+Version: 1.0.2.4
+Section: Tweaks
+Maintainer: SarahH12099
+Architecture: iphoneos-arm
+Installed-Size: 69
+Name: Hotspot Shield++
+Author: SarahH12099
+Tag: purpose::extension
+Description: Premium Hotspot Shield miễn phí
+Depiction: Nguyễn Hoà <nguyentranquihoa098@gmail.com>
+Size: 4408
+Filename: ./debs/com.hoacutevl.hotspotshieldpp.deb
+MD5sum: 474c216b4c22f8f9cd14791a3d783ad6
