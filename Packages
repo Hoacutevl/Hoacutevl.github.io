@@ -51,3 +51,32 @@ Depiction: Nguyễn Hoà <nguyentranquihoa098@gmail.com>
 Filename: ./debs/com.hoacutevl.hidejbvn.deb
 Size: 426188
 MD5sum: 6df3e88a9beb8954191acd06248c72b8
+
+
+Package: com.hoacutevl.crackinappurchases
+Version: 1.4-2-vn
+Section: Tweaks
+Maintainer: Nguyễn Hoà <nguyentranquihoa098@gmail.com>
+Architecture: iphoneos-arm
+Name: LocalIAPStore VN
+Author: anondev
+Description: Mua trong ứng dụng hoàn toàn miễn phí
+Depiction: Nguyễn Hoà <nguyentranquihoa098@gmail.com>
+Filename: ./debs/com.hoacutevl.crackinappurchases.deb
+Size: 59546
+MD5sum: 014bafd64b4889ebe6162b81b4227a55
+
+
+Package: com.hoacutevl.durecorderhack
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Nguyễn Hoà <nguyentranquihoa098@gmaul.com>
+Depends: mobilesubstrate, com.thuthuatjb.iconrepo
+Architecture: iphoneos-arm
+Name: DU Recorder++
+Author: Nguyễn Hoà
+Description: DU Recorder - Screen Recorder Premium miễn phí.
+Depiction: Nguyễn Hoà <nguyentranquihoa098@gmaul.com>
+Size: 113644
+Filename: ./debs/com.hoacutevl.durecorderhack_0.0.2_iphoneos-arm.deb
+MD5sum: d1dceeefbfca4e6e261e1ab0b148cdb4
