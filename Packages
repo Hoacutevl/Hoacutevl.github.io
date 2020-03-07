@@ -24,3 +24,16 @@ Section: Tweaks
 Depiction: Nguyễn Hoà <nguyentranquihoa098@gmail.com>
 Author: Spark & Dennis D. Bednarz
 Name: SnowBoard VN
+
+
+Package: com.hoacutevl.liacadarks
+Version: 1.9
+Architecture: iphoneos-arm
+Maintainer: Nguyễn Hoà <nguyentranquihoa098@gmail.com>
+Filename: ./debs/com.hoacutevl.liacadarks_1.9_iphoneos-arm.deb
+Size: 8940148
+MD5sum: 2a71e06d46913e1c69f384eb7f6c5d7e
+Section: Themes
+Author: Nguyễn Hoà <nguyentranquihoa098@gmail.com>
+Description: Dark Liaca Version With Modern, Colourful & Carefully Design.
+Name: Liaca Dark VN
