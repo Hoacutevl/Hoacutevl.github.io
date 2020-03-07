@@ -1,12 +1,12 @@
-Package: com.hoacutevl.pubgmobilecheats
+Package: com.hoacutevl.pubghackqt0.17
 Version: 0.17
 Architecture: iphoneos-arm
 Maintainer: Nguyễn Hòa <nguyentranquihoa098@gmail.com>
-Filename: ./debs/com.hoacutevl.pubgmobilecheats_17.0_iphoneos-arm.deb
+Filename: ./debs/com.hoacutevl.pubghackqt017_17.0_iphoneos-arm.deb
 Size: 1047484
-MD5sum: dfc08d8df16593e2acc8a16cb6cab5cf
-SHA1: 9ac634cf26c2668c5963fb380675847540f6135f
-SHA256: a1d7fe8f96dbc9f7b9ad4bb228b87c94034f7d2eb8314425822882766d07d4ae
+MD5sum: 48d6b4c966be60ed6f70aac95dca3cce
+SHA1: 5aad3daa1a8a7c66e7c4051b4b077a8af2357ba8
+SHA256: fa125fb85585c22c6c4264eb68842b7fe7e4c683a65b477b949bde30e185089c
 Section: Games
 Description: - No Recoil - No Spread - Xray Slider (Slider that removes environment such as trees and grass)
 Author: Nguyễn Hòa <nguyentranquihoa098@gmail.com>
