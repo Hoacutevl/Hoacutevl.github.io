@@ -9,3 +9,18 @@ Section: Games
 Description: - No Recoil - No Spread - Xray Slider (Slider that removes environment such as trees and grass)
 Author: Nguyễn Hòa <nguyentranquihoa098@gmail.com>
 Name: PUBG MOBILE v0.17.0 +3 [Xray-Slider] FREE HACK!
+
+
+
+Package: com.hoacutevl.snowboardvn
+Version: 1.2.67~Beta1
+Architecture: iphoneos-armSS
+Maintainer: Nguyễn Hoà <nguyentranquihoa098@gmail.com>
+Filename: ./debs/com.hoacutevl.snowboardvn_1.2.67~Beta1_iphoneos-arm.deb
+Size: 2788782
+MD5sum: fdb37478c710096acd065ee9ae40f150
+Description: Tinh chỉnh cài đặt chủ đề cho thiết bị của bạn!
+Section: Tweaks
+Depiction: Nguyễn Hoà <nguyentranquihoa098@gmail.com>
+Author: Spark & Dennis D. Bednarz
+Name: SnowBoard VN
